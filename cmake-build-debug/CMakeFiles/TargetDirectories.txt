@@ -1,0 +1,3 @@
+C:/Users/liorx/CLionProjects/sim_sem/cmake-build-debug/CMakeFiles/sim_sem.dir
+C:/Users/liorx/CLionProjects/sim_sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liorx/CLionProjects/sim_sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
